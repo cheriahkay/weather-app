@@ -3,7 +3,7 @@
 A sleek, responsive weather application built with Vanilla JavaScript that fetches real-time data from the OpenWeatherMap API.
 
 ## 🚀 Live Demo
-Check out the live project here: [Your Vercel Link Here](https://your-project.vercel.app)
+Check out the live project here: [https://weather-app-steel-nu-20.vercel.app]
 
 ## ✨ Features
 - **Real-time Data:** Fetches current temperature, humidity, and weather conditions.
@@ -20,9 +20,7 @@ Check out the live project here: [Your Vercel Link Here](https://your-project.ve
 - **OpenWeatherMap API** - Weather data source
 - **Vercel** - Hosting and Deployment
 
-## 📸 Preview
-![Project Screenshot](./img/screenshot.png) 
-*(Note: You can add a screenshot of your app here later!)*
+
 
 ## ⚙️ How to Run Locally
 1. Clone the repository:
