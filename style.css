@@ -1,0 +1,24 @@
+body {
+    background: #0f0c29;
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: white;
+}
+
+.weather-card {
+    background: #1a1a2e;
+    border-radius: 15px;
+    padding: 40px;
+    border-bottom: 5px solid #00d2ff; /* Glowing bottom border */
+    box-shadow: 0 15px 25px rgba(0,0,0,0.5);
+}
+
+.temp {
+    background: linear-gradient(to bottom, #00d2ff, #3a7bd5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 70px;
+}
